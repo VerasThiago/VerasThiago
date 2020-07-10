@@ -12,7 +12,7 @@
 - [![GoHorse](https://img.shields.io/badge/-Go%20Horse-133E79)](https://github.com/labbsr0x/go-horse) Docker Daemon proxy/filter.
 - [![DragonTPlatform](https://img.shields.io/badge/-DragonT%20Platform-FF4B4C)](https://github.com/apc-unb/apc-api) DragonT is a platform that help students from Algorithms and Computer Programs course at University of Brasília.
 - [![GoForces](https://img.shields.io/badge/-Goforces-74CDDD)](https://github.com/togatoga/goforces) Goforces is a go package for the codeforces API.
-- [![NewsSearcher](https://img.shields.io/badge/-News%20Searcher-red)](https://github.com/Gguidini/news-searcher) ands-on project for Informational Systems discipline, University of Brasilia, 2018/2.
+- [![NewsSearcher](https://img.shields.io/badge/-News%20Searcher-red)](https://github.com/Gguidini/news-searcher) Hands-on project for Informational Systems discipline, University of Brasilia, 2018/2.
 
 ## ⚡ Technologies
 - Backend development using **Go, JavaScript, C++, Python, TypeScript, Java, C#**
