@@ -22,4 +22,4 @@
 ## :mailbox_with_no_mail: Contact Me
 
 
-[![](https://i.imgur.com/6KhkeG9.png)](https://www.linkedin.com/in/verasthiago/)
+[![](https://i.imgur.com/wdoeqUB.png)](https://www.linkedin.com/in/verasthiago/)
