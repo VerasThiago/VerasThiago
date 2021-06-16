@@ -2,7 +2,7 @@
 
 ## About me
 
-- Ex [![IBM](https://img.shields.io/badge/-IBM-02579A)](https://www.ibm.com/br-pt) Intern and now working at [![VTEX](https://img.shields.io/badge/-VTEX-ff69b4)](https://vtex.com/br-pt/) as a FT Software Engineer.
+- Ex [![IBM](https://img.shields.io/badge/-IBM-02579A)](https://www.ibm.com/br-pt) Intern and now working at [![VTEX](https://img.shields.io/badge/-VTEX-ff69b4)](https://vtex.com/br-pt/) as a FT Software Engineer II.
 - Student at [![UNB](https://img.shields.io/badge/UNB-Computer%20Science-%23008940)](https://www.unb.br/) in the 9th semester.
 - 2020 World finalist at International Collegiate Programming Contest [![ICPC](https://img.shields.io/badge/-ICPC-orange)](http://maratona.ime.usp.br/hist/2019/index.html)
 
