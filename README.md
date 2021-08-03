@@ -15,9 +15,9 @@
 - [![NewsSearcher](https://img.shields.io/badge/-News%20Searcher-red)](https://github.com/Gguidini/news-searcher) Hands-on project for Informational Systems discipline, University of Brasilia, 2018/2.
 
 ## ⚡ Technologies
-- Backend development using **Go, JavaScript, C++, Python, TypeScript, Java, C#**
+- Backend development using **Go, JavaScript, C++, TypeScript, C#**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
-- Creating scalable cloud architecture using **AWS / IBM Cloud**
+- Creating scalable cloud architecture using **AWS / Kubernetes**
 
 ## :mailbox_with_no_mail: Contact Me
 
