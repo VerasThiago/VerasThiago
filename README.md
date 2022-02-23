@@ -2,9 +2,9 @@
 
 ## About me
 
-- Ex [![IBM](https://img.shields.io/badge/-IBM-02579A)](https://www.ibm.com/br-pt) Intern and now working at [![VTEX](https://img.shields.io/badge/-VTEX-ff69b4)](https://vtex.com/br-pt/) as a FT Software Engineer II.
-- 2020 World finalist at International Collegiate Programming Contest [![ICPC](https://img.shields.io/badge/-ICPC-orange)](http://maratona.ime.usp.br/hist/2019/index.html)
-- Student at [![UNB](https://img.shields.io/badge/UNB-Computer%20Science-%23008940)](https://www.unb.br/) in the 10th semester.
+- Ex [![IBM](https://img.shields.io/badge/-IBM-02579A)](https://www.ibm.com/br-pt) and [![VTEX](https://img.shields.io/badge/-VTEX-ff69b4)](https://vtex.com/br-pt/). Working at [![Coinbase](https://img.shields.io/badge/-COINBASE-0000FF)](https://www.coinbase.com/) as a Senior Software Engineer.
+- 2020 World finalist at International Collegiate Programming Contest - Russia [![ICPC](https://img.shields.io/badge/-ICPC-orange)](https://cphof.org/standings/icpc/2020)
+- Gratuated at [![UNB](https://img.shields.io/badge/UNB-Computer%20Science-%23008940)](https://www.unb.br/).
 
 
 ## 🚧 Projects | Contributions (Public only)
@@ -22,5 +22,5 @@
 
 ## :mailbox_with_no_mail: Contact Me
 
-
-[![](https://i.imgur.com/VzCPOmf.png)](https://www.linkedin.com/in/verasthiago/)
+             
+[![](https://user-images.githubusercontent.com/20549906/155357417-9f3b0424-63c0-4b80-8cf0-c0ab28f3f514.png)](https://www.linkedin.com/in/verasthiago/)
