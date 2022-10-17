@@ -2,8 +2,8 @@
 
 ## About me
 
-- Ex [![IBM](https://img.shields.io/badge/-IBM-02579A)](https://www.ibm.com/br-pt) and [![VTEX](https://img.shields.io/badge/-VTEX-ff69b4)](https://vtex.com/br-pt/). Working at [![Coinbase](https://img.shields.io/badge/-COINBASE-0000FF)](https://www.coinbase.com/) as a Senior Software Engineer.
-- 2020 World finalist at International Collegiate Programming Contest - Russia [![ICPC](https://img.shields.io/badge/-ICPC-orange)](https://cphof.org/standings/icpc/2020)
+- Ex [![IBM](https://img.shields.io/badge/-IBM-02579A)](https://www.ibm.com/br-pt), [![VTEX](https://img.shields.io/badge/-VTEX-ff69b4)](https://vtex.com/br-pt/), [![Coinbase](https://img.shields.io/badge/-COINBASE-0000FF)](https://www.coinbase.com/) and [![Deco](https://img.shields.io/badge/-DECO-07DA63)](https://www.deco.cx/). Working at [![Toptal](https://img.shields.io/badge/-TOPTAL-0000FF)](https://www.toptal.com/) as a Senior Software Engineer.
+- 2020 World finalist at International Collegiate Programming Contest - Russia [![ICPC](https://img.shields.io/badge/-ICPC-orange)](https://cphof.org/standings/icpc/2020) (1st Plave Brazil | 3rd LATAM)
 - Gratuated at [![UNB](https://img.shields.io/badge/UNB-Computer%20Science-%23008940)](https://www.unb.br/).
 
 
@@ -21,6 +21,5 @@
 - Creating scalable cloud architecture using **AWS / Kubernetes**
 
 ## :mailbox_with_no_mail: Contact Me
-
-             
-[![](https://user-images.githubusercontent.com/20549906/155357417-9f3b0424-63c0-4b80-8cf0-c0ab28f3f514.png)](https://www.linkedin.com/in/verasthiago/)
+                         
+[![](https://i.imgur.com/nCcReAP.png)](https://www.linkedin.com/in/verasthiago/)
