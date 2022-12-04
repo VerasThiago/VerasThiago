@@ -9,6 +9,7 @@
 
 ## 🚧 Projects | Contributions (Public only)
 
+- [![Orrevuá](https://img.shields.io/badge/-Orrevuá-8142E9)](https://github.com/VerasThiago/tickets-generator) Orrevuá is a system to buy and use event tickets.
 - [![Toolbelt](https://img.shields.io/badge/-Toolbelt-%23008940)](https://github.com/vtex/toolbelt) VTEX Toolbelt is a command-line program that gives you access to all of the features in the VTEX platform.
 - [![GoHorse](https://img.shields.io/badge/-Go%20Horse-133E79)](https://github.com/labbsr0x/go-horse) Docker Daemon proxy/filter.
 - [![DragonTPlatform](https://img.shields.io/badge/-DragonT%20Platform-FF4B4C)](https://github.com/apc-unb/apc-api) DragonT is a platform that help students from Algorithms and Computer Programs course at University of Brasília.
