@@ -2,7 +2,7 @@
 
 ## About me
 
-- Ex [![IBM](https://img.shields.io/badge/-IBM-02579A)](https://www.ibm.com/br-pt), [![VTEX](https://img.shields.io/badge/-VTEX-ff69b4)](https://vtex.com/br-pt/), [![Coinbase](https://img.shields.io/badge/-COINBASE-0000FF)](https://www.coinbase.com/), [![Deco](https://img.shields.io/badge/-DECO-07DA63)](https://www.deco.cx/) and [![Toptal](https://img.shields.io/badge/-TOPTAL-0000FF)](https://www.toptal.com/). Working at [![Microsoft](https://img.shields.io/badge/-MICROSOFT-F25022)](https://www.microsoft.com/) as a Software Engineer.
+- Ex [![IBM](https://img.shields.io/badge/-IBM-02579A)](https://www.ibm.com/br-pt), [![VTEX](https://img.shields.io/badge/-VTEX-ff69b4)](https://vtex.com/br-pt/), [![Coinbase](https://img.shields.io/badge/-COINBASE-0000FF)](https://www.coinbase.com/), [![Deco](https://img.shields.io/badge/-DECO-07DA63)](https://www.deco.cx/), [![Toptal](https://img.shields.io/badge/-TOPTAL-0000FF)](https://www.toptal.com/) and [![Microsoft](https://img.shields.io/badge/-MICROSOFT-F25022)](https://www.microsoft.com/). Working at [![Google](https://img.shields.io/badge/-GOOGLE-4285F4)](https://cloud.google.com/) as a Software Engineer.
 - 2020 World finalist at International Collegiate Programming Contest - Russia [![ICPC](https://img.shields.io/badge/-ICPC-orange)](https://cphof.org/standings/icpc/2020) (1st place Brazil | 3rd LATAM)
 - Gratuated at [![UNB](https://img.shields.io/badge/UNB-Computer%20Science-%23008940)](https://www.unb.br/).
 
@@ -24,6 +24,6 @@
 ## :mailbox_with_no_mail: Contact Me
 <p align="center">
   <a href = "https://www.linkedin.com/in/verasthiago/">
-    <img width="550" src="https://i.imgur.com/ojBXNZ9.png">
+    <img width="550" src="https://i.imgur.com/gnHMoA0.png">
   </a>
 </p>
