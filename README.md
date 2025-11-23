@@ -24,6 +24,6 @@
 ## :mailbox_with_no_mail: Contact Me
 <p align="center">
   <a href = "https://www.linkedin.com/in/verasthiago/">
-    <img width="550" src="https://i.imgur.com/gnHMoA0.png">
+    <img width="550" src="https://i.imgur.com/5ExS817.png">
   </a>
 </p>
